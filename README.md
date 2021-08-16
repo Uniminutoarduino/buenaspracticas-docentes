@@ -14,7 +14,7 @@
 
 Esta metodología ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
 
-Un especial agradecimiento a los estudiantes que tuve en los cursos donde implementé la metodología, sin ellos no hubiese sido posible este trabajo. Similarmente, al profesor de la maestría en docencia de la Universidad de La Salle, prófesor Rodolfo López por su revisión y consejos de los instrumentos de evaluación (rúbrica, guión de entrevista y cuestionario). 
+Un especial agradecimiento a los **estudiantes** que tuve en los cursos donde implementé la metodología, sin ellos no hubiese sido posible este trabajo. Similarmente, al profesor de la maestría en docencia de la Universidad de La Salle, **prófesor Rodolfo López** por su revisión y consejos de los instrumentos de evaluación (rúbrica, guión de entrevista y cuestionario). 
 
-**Gracias por tu interés en esta metodología educativa :wink:**
+**Muchas gracias por tu interés en esta metodología educativa :wink:**
 
