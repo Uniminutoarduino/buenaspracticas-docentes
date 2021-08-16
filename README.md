@@ -10,6 +10,8 @@
 
 - **Contexto:** La práctica se desarrollo en la facultad de ingeniería de la Corporación Universitaria Minuto de Dios-UNIMINUTO con estudiantes de los programas de Tecnología en electrónica e Ingeniería Industrial. En total han participado *n=60* estudiantes durante los periodos 2020-I, 2020-II y 2021-I.
 
+## Descripción de archivos y carpetas del repositorio
+
 ## Crédito
 
 Esta metodología ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
