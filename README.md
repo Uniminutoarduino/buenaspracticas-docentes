@@ -11,15 +11,15 @@
 - **Contexto:** La práctica se desarrollo en la facultad de ingeniería de la Corporación Universitaria Minuto de Dios-UNIMINUTO con estudiantes de los programas de Tecnología en electrónica e Ingeniería Industrial. En total han participado *n=60* estudiantes durante los periodos 2020-I, 2020-II y 2021-I.
 
 ## Descripción de archivos y carpetas del repositorio
-- Carpetas:
+*Carpetas:*
 
 **Instrumentos Evaluación:** En esta carpeta se pueden encontrar los instrumentos usados para evaluar los blogs y videos **(Rúbrica)** como también los usados para evaluar la práctica en si (encuestas, guion de entrevista semiestructurada)
 
-- Archivos:
+*Archivos:*
 
-**Documento base sobre la metodología:** Este es un documento sobre todos los aspectos de la práctica educativa, diseño, metodología, resultados, entre otros. 
+- **Documento base sobre la metodología:** Este es un documento sobre todos los aspectos de la práctica educativa, diseño, metodología, resultados, entre otros. 
 
-**Articulo PrePrint (Can in-home laboratories foster learning, self-efficacy, and motivation during the COVID-19 pandemic?-A case study in two engineering programs):** Este es un artículo en inglés que ilustra el diseño metodólogico con el análisis de resultados según las tecnicas estadisticas inferencias y descriptivas en cada uno de los cursos donde se implemento la metodología. El articulo ha sido enviado a la revista Internacional Journal of Engineering Education [https://www.ijee.ie/](https://www.ijee.ie/) y actualmente se esta esperando su aprobación. 
+- **Articulo PrePrint (Can in-home laboratories foster learning, self-efficacy, and motivation during the COVID-19 pandemic?-A case study in two engineering programs):** Este es un artículo en inglés que ilustra el diseño metodólogico con el análisis de resultados según las tecnicas estadisticas inferencias y descriptivas en cada uno de los cursos donde se implemento la metodología. El articulo ha sido enviado a la revista Internacional Journal of Engineering Education [https://www.ijee.ie/](https://www.ijee.ie/) y actualmente se esta esperando su aprobación. 
 
 ## Crédito
 
