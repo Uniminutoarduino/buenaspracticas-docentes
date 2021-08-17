@@ -13,7 +13,7 @@
 ## Descripción de archivos y carpetas del repositorio
 *Carpetas:*
 
-**Instrumentos Evaluación:** En esta carpeta se pueden encontrar los instrumentos usados para evaluar los blogs y videos **(Rúbrica)** como también los usados para evaluar la práctica en si (encuestas, guion de entrevista semiestructurada)
+- **Instrumentos Evaluación:** En esta carpeta se pueden encontrar los instrumentos usados para evaluar los blogs y videos **(Rúbrica)** como también los usados para evaluar la práctica en si (encuestas, guion de entrevista semiestructurada)
 
 *Archivos:*
 
