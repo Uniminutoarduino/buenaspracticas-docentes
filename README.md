@@ -21,6 +21,10 @@
 
 - **Articulo PrePrint (Can in-home laboratories foster learning, self-efficacy, and motivation during the COVID-19 pandemic?-A case study in two engineering programs):** Este es un artículo en inglés que ilustra el diseño metodólogico con el análisis de resultados según las tecnicas estadisticas inferencias y descriptivas en cada uno de los cursos donde se implemento la metodología. El articulo ha sido enviado a la revista Internacional Journal of Engineering Education [https://www.ijee.ie/](https://www.ijee.ie/) y actualmente se esta esperando su aprobación. 
 
+## Algunas imagenes de la metodología
+
+![Collage](https://user-images.githubusercontent.com/11606241/129651644-64f732bc-a453-4685-87e8-75ebd3e31412.png)
+
 ## Crédito
 
 Esta metodología ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
