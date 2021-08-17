@@ -22,6 +22,8 @@
 
 - **Articulo PrePrint (Can in-home laboratories foster learning, self-efficacy, and motivation during the COVID-19 pandemic?-A case study in two engineering programs):** Este es un artículo en inglés que ilustra el diseño metodólogico con el análisis de resultados según las tecnicas estadisticas inferenciales y descriptivas en cada uno de los cursos donde se implemento la metodología. El articulo ha sido enviado a la revista Internacional Journal of Engineering Education [https://www.ijee.ie/](https://www.ijee.ie/) y actualmente se esta esperando su aprobación. 
 
+- **Lista Blogs:** En esta lista se encontrarán los enlaces con varios ejemplos de los blogs y videos realizados por los estudiantes respecto de la metodología desarrollada.
+
 ## Algunas imagenes de la metodología
 
 ![Collage](https://user-images.githubusercontent.com/11606241/129651644-64f732bc-a453-4685-87e8-75ebd3e31412.png)
@@ -32,7 +34,7 @@
 
 Esta metodología y la aplicación *EmDroid* ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO, MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
 
-Un especial agradecimiento a los **estudiantes** que tuve en los cursos donde implementé la metodología, sin ellos no hubiese sido posible este trabajo. Similarmente, al profesor de la maestría en docencia de la Universidad de La Salle, **prófesor Rodolfo López** por su revisión y consejos en cuanto a los instrumentos de evaluación (rúbrica, guión de entrevista y cuestionario). 
+Un especial agradecimiento a los **estudiantes** que tuve en los cursos donde implementé la metodología, sin ellos no hubiese sido posible este trabajo. Los blogs y videos presentados son producto de su relevante trabajo en las clases. Similarmente, al profesor de la maestría en docencia de la Universidad de La Salle, **prófesor Rodolfo López** por su revisión y consejos en cuanto a los instrumentos de evaluación (rúbrica, guión de entrevista y cuestionario). 
 
 **Muchas gracias por tu interés en esta metodología educativa :wink:**
 
