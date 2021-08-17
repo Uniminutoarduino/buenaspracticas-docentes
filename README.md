@@ -6,7 +6,7 @@
 
 - **Objetivo:** La idea de este repositorio es divulgar *cómo* y *para que* se realizó la práctica educativa. En los diferentes archivos se encontrará la información de la metodología usada, herramientas tecnológicas, instrumentos de evaluación y artículo de síntesis con los principales resultados que se obtuvieron en la práctica. Para la práctica el objetivo fue *diseñar y desarrollar una metodología educativa que permita dar continuidad a los laboratorios y experimentación activa de los estudiantes de ingeniería en los programas de Tecnología en electrónica e Ingeniería Industrial.*
 
-- **Problemática:** La práctica surge como una alternativa educativa dada las restricciones por la pandemia de COVID-19 que afectaron los laboratorios y actividades prácticas de los estudiantes en ingeniería. Estos dos elementos mencionados son críticos, pues la mayoría de los currículos en ingeniería y tecnología las usan. Así pues, se trabajó con kits enviados a la casa de los estudiantes y herramientas tecnológicas algunas de ellas Web 2.0 como blogs y videos. También se empleó una tecnología de aprendizaje móvil desarrollada por el departamento de Tecnología en Electrónica de UNIMINUTO denominada ***EmDroid*** cuya información se puede encontrar en el siguiente link: [http://www.seconlearning.com/WikiDokuControlDroid/doku.php?id=inicio](http://www.seconlearning.com/WikiDokuControlDroid/doku.php?id=inicio) 
+- **Problemática:** La práctica surge como una alternativa educativa dada las restricciones por la pandemia de COVID-19 que afectaron los laboratorios y actividades prácticas de los estudiantes en ingeniería. Estos dos elementos mencionados son críticos, pues la mayoría de los currículos en ingeniería y tecnología las usan. Así pues, se trabajó con kits enviados a la casa de los estudiantes y herramientas tecnológicas algunas de ellas Web 2.0 como blogs y videos. También se empleó una tecnología de aprendizaje móvil desarrollada por el departamento de Tecnología en Electrónica de UNIMINUTO denominada ***EmDroid*** cuya información se puede encontrar en el siguiente enlace: [http://www.seconlearning.com/WikiDokuControlDroid/doku.php?id=inicio](http://www.seconlearning.com/WikiDokuControlDroid/doku.php?id=inicio) 
 
 - **Contexto:** La práctica se desarrolló en la facultad de ingeniería de la Corporación Universitaria Minuto de Dios-UNIMINUTO con estudiantes de los programas de Tecnología en electrónica e Ingeniería Industrial. En total han participado *n=60* estudiantes durante los periodos 2020-I, 2020-II y 2021-I, donde I o II indica el semestre del año académico.
 
@@ -27,7 +27,7 @@
 
 ## Crédito
 
-Esta metodología ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
+Esta metodología y la aplicación *EmDroid* ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO, MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
 
 Un especial agradecimiento a los **estudiantes** que tuve en los cursos donde implementé la metodología, sin ellos no hubiese sido posible este trabajo. Similarmente, al profesor de la maestría en docencia de la Universidad de La Salle, **prófesor Rodolfo López** por su revisión y consejos en cuanto a los instrumentos de evaluación (rúbrica, guión de entrevista y cuestionario). 
 
