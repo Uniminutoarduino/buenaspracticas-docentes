@@ -16,6 +16,7 @@
 **Instrumentos Evaluación:** En esta carpeta se pueden encontrar los instrumentos usados para evaluar los blogs y videos **(Rúbrica)** como también los usados para evaluar la práctica en si (encuestas, guion de entrevista semiestructurada)
 
 - Archivos:
+
 **Documento base sobre la metodología:** Este es un documento sobre todos los aspectos de la práctica educativa, diseño, metodología, resultados, entre otros. 
 
 **Articulo PrePrint (Can in-home laboratories foster learning, self-efficacy, and motivation during the COVID-19 pandemic?-A case study in two engineering programs):** Este es un artículo en inglés que ilustra el diseño metodólogico con el análisis de resultados según las tecnicas estadisticas inferencias y descriptivas en cada uno de los cursos donde se implemento la metodología. El articulo ha sido enviado a la revista Internacional Journal of Engineering Education [https://www.ijee.ie/](https://www.ijee.ie/) y actualmente se esta esperando su aprobación. 
