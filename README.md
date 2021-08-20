@@ -16,6 +16,8 @@
 
 - **Instrumentos Evaluación:** En esta carpeta se pueden encontrar los instrumentos usados para evaluar los blogs y videos **(Rúbrica)** como también los usados para evaluar la práctica en si (encuestas, guion de entrevista semiestructurada)
 
+- **Articulos estudiantes:** En esta carpeta se pueden encontrar algunos ejemplos de articulos creados en coautoria con estudiantes sobre tecnologías creadas a partir de la reflexión sobre la práctica educativa.
+
 *Archivos:*
 
 - **Documento base sobre la metodología:** Este es un documento sobre todos los aspectos de la práctica educativa, diseño, metodología, resultados, entre otros. 
