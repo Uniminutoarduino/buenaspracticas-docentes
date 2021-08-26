@@ -18,6 +18,8 @@
 
 - **Articulos estudiantes:** En esta carpeta se pueden encontrar algunos ejemplos de articulos creados en coautoria con estudiantes sobre tecnologías creadas a partir de la reflexión sobre la práctica educativa.
 
+- **Encuestas Aplicadas:** En esta carpeta se pueden encontrar los enlaces donde están las encuestas aplicadas a los estudiantes en Google forms en los diferentes semestres (2020-I, 2020-I, 2021-I).
+
 *Archivos:*
 
 - **Documento base sobre la metodología:** Este es un documento sobre todos los aspectos de la práctica educativa, diseño, metodología, resultados, entre otros. 
