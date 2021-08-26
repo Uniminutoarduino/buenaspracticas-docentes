@@ -18,7 +18,7 @@
 
 - **Articulos estudiantes:** En esta carpeta se pueden encontrar algunos ejemplos de articulos creados en coautoria con estudiantes sobre tecnologías creadas a partir de la reflexión sobre la práctica educativa.
 
-- **Encuestas Aplicadas:** En esta carpeta se pueden encontrar los enlaces donde están las encuestas aplicadas y las respuestas de los estudiantes en Google Forms en los diferentes semestres (2020-I, 2020-I, 2021-I).
+- **Encuestas Aplicadas:** En esta carpeta se pueden encontrar los enlaces donde están las encuestas aplicadas y las respuestas de los estudiantes en Google Forms en los diferentes semestres (2020-I, 2020-II, 2021-I).
 
 *Archivos:*
 
