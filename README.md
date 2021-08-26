@@ -36,7 +36,7 @@
 
 ## Crédito
 
-Esta metodología y la aplicación *EmDroid* ha sido desarrollada por el profesor de la facultad de ingeniería de la Corporación Universitaria Minutos de Dios-UNIMINUTO, MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
+Esta metodología y la aplicación *EmDroid* ha sido desarrollada por el profesor del departamento de TEcnología en Electrónica la Facultad de Ingeniería (Corporación Universitaria Minutos de Dios-UNIMINUTO), MEd. Jonathan Álvarez Ariza: jalvarez@uniminuto.edu. 
 
 Un especial agradecimiento a los **estudiantes** que tuve en los cursos donde implementé la metodología, sin ellos no hubiese sido posible este trabajo. Los blogs y videos presentados son producto de su relevante trabajo en las clases. Similarmente, al profesor de la maestría en docencia de la Universidad de La Salle, **prófesor Rodolfo López** por su revisión y consejos en cuanto a los instrumentos de evaluación (rúbrica, guión de entrevista y cuestionario). 
 
