@@ -11,7 +11,7 @@
 
 - **Contexto:** La práctica se desarrolló en la facultad de ingeniería de la Corporación Universitaria Minuto de Dios-UNIMINUTO con estudiantes de los programas de Tecnología en electrónica e Ingeniería Industrial. En total han participado *n=60* estudiantes durante los periodos 2020-I, 2020-II y 2021-I, donde I o II indica el semestre del año académico.
 
-- **Video práctica:** En este enlace se puede encontrar el video de descripción de la práctca educativa: https://youtu.be/q7Gga1873oI
+- **Video práctica:** En este enlace se puede encontrar el video de descripción de la práctica educativa con todos sus detalles: https://youtu.be/q7Gga1873oI
 
 ## Descripción de archivos y carpetas del repositorio
 *Carpetas:*
